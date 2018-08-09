@@ -1,0 +1,2 @@
+webpackJsonp([4],{pRQ6:function(t,e,s){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var n={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("h2",[this._v("dashboard")]),this._v(" "),e("el-button",{attrs:{type:"primary"},on:{click:this.test}},[this._v("test wrong token")])],1)},staticRenderFns:[]},r=s("VU/8")({name:"Dashboard",methods:{test:function(){this.$http.post("/test")}}},n,!1,null,null,null);e.default=r.exports}});
+//# sourceMappingURL=4.9ad391b2bf608257da7c.js.map

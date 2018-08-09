@@ -1,0 +1,2 @@
+webpackJsonp([1],{EDqK:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  user\n")])},staticRenderFns:[]},s=t("VU/8")({name:"User"},r,!1,null,null,null);n.default=s.exports}});
+//# sourceMappingURL=1.b87d3c23626c673aa102.js.map
